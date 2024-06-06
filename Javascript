@@ -1,22 +1,27 @@
 
 print("Quarter 4!")
 
-I opned an acount on p5.js
 
-Index code = 
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Chess</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <div id="gameboard"></div>
-    <p>It is <span id="player"></span> go.</p>
-    <p id="info-display"></p>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1"
+        <title>My First Website</title>
+    </head>
+    <body>
+        <h1>My First Website</h1>
 
-    <script src="pieces.js"></script>
-    <script src="app.js"></script>
-</body>
+        This is my very first website and I'm <b>extremely excited!!!!!!</b>
+
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ante ligula, imperdiet egestas erat eget, ultrices laoreet lectus. Fusce non eros a orci pellentesque maximus non ut justo. Vestibulum leo tellus, bibendum ac nibh a, tempor elementum nisi. Mauris convallis lacus risus, id congue diam laoreet ut. Nulla tellus sem, maximus vitae ante blandit, dignissim iaculis orci. Proin tempor pellentesque risus, non mattis ante sollicitudin id. Vivamus nec arcu vitae risus posuere placerat. Proin ipsum nunc, euismod a diam id, fringilla auctor turpis. Suspendisse hendrerit elit id blandit eleifend. Nullam id finibus ex. Cras id mattis ligula. Proin bibendum porta ornare.
+        </p>
+
+        <p>
+            Aliquam erat volutpat. Etiam tincidunt ultrices sem, sit amet ultrices ante euismod quis. Cras sed lorem non ex sodales congue sed vitae magna. Phasellus dapibus, massa ac condimentum ultrices, libero diam finibus quam, non bibendum neque odio eu erat. Phasellus lobortis diam in massa laoreet tristique. Fusce pharetra porttitor arcu a ultricies. Maecenas molestie tempus est, ut ullamcorper diam ultricies eu. Pellentesque semper mattis ante, eget pretium risus consectetur eget. Quisque ultrices interdum est ut lacinia.
+        </p>
+
+    
+
+    </body>
 </html>
